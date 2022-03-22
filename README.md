@@ -5,4 +5,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=tommy1680&show_icons=true&locale=en" alt="tommy1680" /></p>部落格
 
-- 📝 Tommy WU 隨筆[https://tommy1680.gitlab.io/vuepress-blog/](https://tommy1680.gitlab.io/vuepress-blog/)
+- 📝 Tommy WU 隨筆 [https://tommy1680.gitlab.io/vuepress-blog/](https://tommy1680.gitlab.io/vuepress-blog/)
